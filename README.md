@@ -1,6 +1,8 @@
 # MASIVO
 
 ## Official Donation Address
+CLICK ON THE LINK https://1masivo1.github.io
+HAGA CLIC EN EL ENLACE https://1masivo1.github.io
 
 **Network:** BNB Smart Chain (BEP-20)  
 **Token:** USDT (BEP-20)  
